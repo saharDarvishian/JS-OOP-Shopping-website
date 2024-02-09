@@ -17,6 +17,7 @@ async function render() {
     productsData,
     cartInstance
   );
+
   productsInstance.showProducts();
 }
 
